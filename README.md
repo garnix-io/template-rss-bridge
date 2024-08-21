@@ -14,3 +14,6 @@ To get your own rss-bridge going:
   This will allow you to ssh into your deployed host.
 6) Push your changes! garnix will build and deploy the package, and make your
    server available in a `garnix.me` domain.
+
+This [RSS Bridge Server](https://server.main.template-rss-bridge.garnix-io.garnix.me) gets deployed
+automatically with this repository.
